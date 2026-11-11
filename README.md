@@ -1,0 +1,2 @@
+# Comprehensive-Water-Quality-Assessment-and-Potability-Prediction-using-Multi-parameter-Analysis
+Analyse water quality parameters to predict potability using machine learning. Includes feature importance analysis, SMOTE for data balancing, and rigorous model evaluation. The goal is building robust predictive models to accurately classify samples, ensuring reliable and safe drinking water assessment
